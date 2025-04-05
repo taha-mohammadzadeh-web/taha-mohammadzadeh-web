@@ -1,32 +1,45 @@
-# Hi there! I'm Taha 👋
+<h1 align="center" style="color:#00fff7; font-size: 3em; font-family: 'Fira Code', monospace; text-shadow: 2px 2px 5px rgba(0, 255, 255, 0.8);">
+    ⚡ Taha: Learning to Hack the Frontend ⚡
+</h1>
 
-## 🖥️ Front-end Developer | Passionate about learning and creating amazing web experiences!
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFF7&center=true&vCenter=true&multiline=true&width=500&lines=New+to+Frontend...;Exploring+HTML+%2B+CSS;JavaScript+coming+soon...;Entering+Dev+Mode" alt="Typing SVG" />
+</p>
 
-Welcome to my GitHub profile! I’m a beginner Front-end Developer who is eager to learn, grow, and build awesome web applications. Currently diving deep into HTML, CSS, and JavaScript.
+<hr style="border-top: 3px solid #00fff7;"/>
 
-### Skills:
-- 🌐 HTML / CSS (Fully proficient)
-- 💻 JavaScript (Currently learning and improving)
-- 🖌️ Designing and implementing responsive web pages with modern best practices
+## 🧬 Who Am I?
 
-### Projects:
-I’m currently working on personal projects, experimenting with new ideas and skills. Stay tuned for updates!
+- 👾 Just a curious mind stepping into the coding world
+- ⚙️ Learning HTML and CSS
+- ⚡ Starting to understand how websites are built
+- 🚀 JavaScript? Not yet... but soon.
 
-![coming-soon](https://media.giphy.com/media/3ohs4jPA62v92Jnbo0/giphy.gif)
+<hr style="border-top: 3px solid #00fff7;"/>
 
----
+## 🛠️ Tools I'm Exploring:
 
-### 📚 Learning Journey:
-Right now, I’m focusing on enhancing my JavaScript skills and learning more about modern front-end tools and frameworks. I can’t wait to apply these skills to real-world projects!
+<p align="center">
+    <img src="https://img.shields.io/badge/-HTML5-ff3c00?style=for-the-badge&logo=html5&logoColor=black" />
+    <img src="https://img.shields.io/badge/-CSS3-006eff?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-111111?style=for-the-badge&logo=github" />
+</p>
 
-![Learning](https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif)
+<hr style="border-top: 3px solid #00fff7;"/>
 
----
+## ⚡ GitHub Activity (So far):
 
-### Why Front-end?
-I’ve always had a passion for design and user experience. Becoming a Front-end Developer allows me to combine my love for visual creativity with the technical aspects of building interactive, responsive websites.
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=taha-mohammadzadeh-web&show_icons=true&theme=tokyonight&border_color=00FFF7&icon_color=00fff7&title_color=00fff7&text_color=00bcd4" />
+</p>
 
----
+<hr style="border-top: 3px solid #00fff7;"/>
 
-### 🚀 Connect with me:
-- [GitHub](https://github.com/taha-mohammadzadeh-web)
+## 💡 Quote of the Day:
+> *"Every pro was once a beginner. Every hacker was once lost in the code."*
+
+<hr style="border-top: 3px solid #00fff7;"/>
+
+<p align="center">
+    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="350" height="350" style="border-radius: 10px;"/>
+</p>
