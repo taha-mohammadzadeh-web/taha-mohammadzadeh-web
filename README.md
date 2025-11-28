@@ -14,7 +14,7 @@
     👾 A curious mind stepping into the digital frontier<br>
     ⚙️ Learning <span style="color: #ff3c00;">HTML</span> and <span style="color: #006eff;">CSS</span><br>
     ⚡ Unlocking the secrets of how websites are built<br>
-    🚀 JavaScript? Not yet... but soon.
+    🚀 JavaScript? sure
 </p>
 
 <hr style="border-top: 4px solid #00fff7;"/>
